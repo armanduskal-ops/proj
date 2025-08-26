@@ -5,5 +5,7 @@ public class MainApplication {
         System.out.println("Hello World");
         System.out.println("111111");
         System.out.println("saas");
-    }
+    } public static void doSomething() {
+        System.out.println(1);
+}
 }
